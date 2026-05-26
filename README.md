@@ -15,6 +15,11 @@ Ce projet est un exercice de formation sur Git.
 - Git 
 - Restic
 
+## Installation
+
+1. Cloner le repository
+2. Lire le fichier README
+
 
 ## Contact
 
