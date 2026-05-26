@@ -14,3 +14,7 @@ Ce projet est un exercice de formation sur Git.
 
 - Git 
 - Restic
+
+## Auteur
+
+- brice
