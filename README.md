@@ -8,3 +8,9 @@ Ce projet est un exercice de formation sur Git.
 - Ajouter un commit
 - ajouter du contenu
 - puis le push 
+
+
+## Technologies utilisées
+
+- Git 
+- Restic
