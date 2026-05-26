@@ -23,7 +23,7 @@ Ce projet est un exercice de formation sur Git.
 
 ## Contact
 
-- contact.txt
+- [contact](contact.txt)
 
 
 ## Auteur
